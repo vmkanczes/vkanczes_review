@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="Veronicas-MacBook-Pro.local" id="0" name="JUnit Jupiter" package="" skipped="0" tests="5" time="0.064" timestamp="2018-11-03T08:12:16">
+  <testsuite errors="0" failures="0" hostname="Veronicas-MacBook-Pro.local" id="0" name="JUnit Jupiter" package="" skipped="0" tests="5" time="0.059" timestamp="2018-11-03T12:15:53">
     <properties>
       <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
 
@@ -116,18 +116,18 @@
 
     </properties>
 
-    <testcase classname="test.java.SortDemoTest" name="testNumber()" time="0.014">
+    <testcase classname="test.java.SortDemoTest" name="NoNumber()" time="0.012">
       <system-out><![CDATA[
-unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:testNumber()]
-display-name: testNumber()
+unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoNumber()]
+display-name: NoNumber()
 ]]></system-out>
 
     </testcase>
 
-    <testcase classname="test.java.SortDemoTest" name="NoNumber()" time="0.007">
+    <testcase classname="test.java.SortDemoTest" name="testNumber()" time="0.007">
       <system-out><![CDATA[
-unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoNumber()]
-display-name: NoNumber()
+unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:testNumber()]
+display-name: testNumber()
 ]]></system-out>
 
     </testcase>
@@ -148,7 +148,7 @@ display-name: NonIntegerValue()
 
     </testcase>
 
-    <testcase classname="test.java.SortDemoTest" name="NoSuchElem()" time="0.001">
+    <testcase classname="test.java.SortDemoTest" name="NoSuchElem()" time="0">
       <system-out><![CDATA[
 unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoSuchElem()]
 display-name: NoSuchElem()
@@ -162,7 +162,7 @@ display-name: JUnit Jupiter
 ]]></system-out>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="Veronicas-MacBook-Pro.local" id="1" name="JUnit Vintage" package="" skipped="0" tests="0" time="0.007" timestamp="2018-11-03T08:12:16">
+  <testsuite errors="0" failures="0" hostname="Veronicas-MacBook-Pro.local" id="1" name="JUnit Vintage" package="" skipped="0" tests="0" time="0.007" timestamp="2018-11-03T12:15:53">
     <properties>
       <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit" />
 
