@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="JUnit Jupiter" tests="5" skipped="0" failures="0" errors="0" time="0.064" hostname="Veronicas-MacBook-Pro.local" timestamp="2018-11-03T08:12:16">
+<testsuite name="JUnit Jupiter" tests="5" skipped="0" failures="0" errors="0" time="0.059" hostname="Veronicas-MacBook-Pro.local" timestamp="2018-11-03T12:18:21">
 <properties>
 <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
 <property name="file.encoding" value="UTF-8"/>
@@ -65,28 +65,28 @@ unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:testNum
 display-name: testNumber()
 ]]></system-out>
 </testcase>
-<testcase name="NoNumber()" classname="test.java.SortDemoTest" time="0.007">
-<system-out><![CDATA[
-unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoNumber()]
-display-name: NoNumber()
-]]></system-out>
-</testcase>
-<testcase name="negativeArraySize()" classname="test.java.SortDemoTest" time="0.001">
+<testcase name="negativeArraySize()" classname="test.java.SortDemoTest" time="0.007">
 <system-out><![CDATA[
 unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:negativeArraySize()]
 display-name: negativeArraySize()
 ]]></system-out>
 </testcase>
-<testcase name="NonIntegerValue()" classname="test.java.SortDemoTest" time="0.001">
+<testcase name="NonIntegerValue()" classname="test.java.SortDemoTest" time="0.002">
 <system-out><![CDATA[
 unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NonIntegerValue()]
 display-name: NonIntegerValue()
 ]]></system-out>
 </testcase>
-<testcase name="NoSuchElem()" classname="test.java.SortDemoTest" time="0.001">
+<testcase name="NoSuchElem()" classname="test.java.SortDemoTest" time="0.002">
 <system-out><![CDATA[
 unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoSuchElem()]
 display-name: NoSuchElem()
+]]></system-out>
+</testcase>
+<testcase name="NoNumber()" classname="test.java.SortDemoTest" time="0.001">
+<system-out><![CDATA[
+unique-id: [engine:junit-jupiter]/[class:test.java.SortDemoTest]/[method:NoNumber()]
+display-name: NoNumber()
 ]]></system-out>
 </testcase>
 <system-out><![CDATA[
